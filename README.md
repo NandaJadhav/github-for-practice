@@ -1,2 +1,2 @@
-# github-for-practice
+#First Program #
 print("hello world ! ")
